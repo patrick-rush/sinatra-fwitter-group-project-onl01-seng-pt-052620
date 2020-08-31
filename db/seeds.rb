@@ -1,0 +1,5 @@
+User.find_or_create_by(username: "john123", email: "john123@hotmail.com", password_digest: "really_good_password")
+User.find_or_create_by(username: "tinatina", email: "tinatina@tina.com", password_digest: "wow_password")
+User.find_or_create_by(username: "your_grandma_gloria", email: "howdoesemailwork@aol.com", password_digest: "password")
+User.find_or_create_by(username: "coolkids", email: "coolkids@comcast.net", password_digest: "qwerty")
+User.find_or_create_by(username: "boop", email: "beepboop@honkhonk.com", password_digest: "meep")

@@ -1,0 +1,8 @@
+Tweet.find_or_create_by(content: "I'm not very interesting", user_id: 1)
+Tweet.find_or_create_by(content: "Check out my website", user_id: 2)
+Tweet.find_or_create_by(content: "Dogs a so cute, aren't they?", user_id: 3)
+Tweet.find_or_create_by(content: "Too cool for school", user_id: 4)
+Tweet.find_or_create_by(content: "I can't anymore", user_id: 5)
+Tweet.find_or_create_by(content: "Ariana Grande!!!!", user_id: 2)
+Tweet.find_or_create_by(content: "lol", user_id: 5)
+Tweet.find_or_create_by(content: "You need to eat something", user_id: 3)
